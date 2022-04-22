@@ -1,0 +1,13 @@
+{
+  "name": "test3",
+  "symbol": "test3",
+  "uri": "https://raw.githubusercontent.com/ZYJLiu/assets/main/test3",
+  "seller_fee_basis_points": 206,
+  "creators": [
+    {
+      "address": "4B65V1ySBG35UbStDTUDvBTXRfxh6v5tRbLnVrVLpYD2",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
